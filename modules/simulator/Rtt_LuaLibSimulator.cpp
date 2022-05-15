@@ -6,7 +6,7 @@
 // Contact: support@coronalabs.com
 //
 //////////////////////////////////////////////////////////////////////////////
-
+//#frank smith
 #include "Core/Rtt_Build.h"
 
 #include "Rtt_LuaLibSimulator.h"
